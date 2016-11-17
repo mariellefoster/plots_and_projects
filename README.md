@@ -11,3 +11,6 @@ Weird ideas that may get spun out into more complete repos, but are babies here
 
 ## Cron jobs gone wild
 - what kind of strange cron jobs can I dream up?
+
+## Romantic Cycle DFA
+- feelings and transition states in a person's romantic life
