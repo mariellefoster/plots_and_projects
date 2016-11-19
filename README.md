@@ -17,3 +17,6 @@ Weird ideas that may get spun out into more complete repos, but are babies here
 
 ## Dating app idea generator
 - requires a dictionary and an imagination
+
+## Button that retweets the hash of a random tweet
+- picks a tweets, hashes it, tweets at that person
