@@ -20,3 +20,6 @@ Weird ideas that may get spun out into more complete repos, but are babies here
 
 ## Button that retweets the hash of a random tweet
 - picks a tweets, hashes it, tweets at that person
+
+## Make my house a doorbell
+- since we don't have one :(
