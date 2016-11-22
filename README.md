@@ -27,3 +27,6 @@ Weird ideas that may get spun out into more complete repos, but are babies here
 ## Bible timeline visualizer
 - When were different books believed to have been written?
 - Given that the history and writing spanned well over a millenium, it would be super cool to get a sense of what periods these times covered, as well as believed attitudes or important adjacent historical events were believed to have occured.
+
+## Feelings tracker
+- Service that contacts you during your waking hours, respond with a 1-10 rating of how you feel at that moment
