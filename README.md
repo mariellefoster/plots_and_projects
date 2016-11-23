@@ -30,3 +30,6 @@ Weird ideas that may get spun out into more complete repos, but are babies here
 
 ## Feelings tracker
 - Service that contacts you during your waking hours, respond with a 1-10 rating of how you feel at that moment
+
+## Cat pictures texter
+- texts you random cat pics
