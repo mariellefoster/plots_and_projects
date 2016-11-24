@@ -33,3 +33,7 @@ Weird ideas that may get spun out into more complete repos, but are babies here
 
 ## Cat pictures texter
 - texts you random cat pics
+
+## Search Server
+- Server that alters your search results in mysterious ways
+  - i.e. 1 in 10 searchs are automaticall translated into a random language
