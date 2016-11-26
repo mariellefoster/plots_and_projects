@@ -42,3 +42,9 @@ Weird ideas that may get spun out into more complete repos, but are babies here
 ## Markov Marf
 - Inspired by Markov Michelle
 - Feed a markov chain my corpus of emails, see what comes out
+
+## Twitter Server
+- Posts on twitter random packets it intercepts
+  - What packets would be interesting?
+  - Point of anonymization, or publicity? 
+  - i.e. "Someone is visiting this website" vs. "This mac address is doing this thing"
