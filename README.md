@@ -48,3 +48,7 @@ Weird ideas that may get spun out into more complete repos, but are babies here
   - What packets would be interesting?
   - Point of anonymization, or publicity? 
   - i.e. "Someone is visiting this website" vs. "This mac address is doing this thing"
+
+## Schroedinger's button
+- Push a button, 50% chance of seeing a live cat, 50% chance of seeing a dead cat :(
+- kinda dark
