@@ -37,7 +37,7 @@ Weird ideas that may get spun out into more complete repos, but are babies here
 
 ## Search Server
 - Server that alters your search results in mysterious ways
-  - i.e. 1 in 10 searchs are automaticall translated into a random language
+  - i.e. 1 in 10 searchs are automatically translated into a random language
   - changes your search terms to always include, ", in bed"
   
 ## Markov Marf
@@ -54,4 +54,5 @@ Weird ideas that may get spun out into more complete repos, but are babies here
 - Push a button, 50% chance of seeing a live cat, 50% chance of seeing a dead cat :(
 - kinda dark
 
-## 
+## Facial recognizer than replaces people's eyebrows with caterpillars
+- Hello, snapchat filter
