@@ -11,6 +11,7 @@ Weird ideas that may get spun out into more complete repos, but are babies here
 
 ## Cron jobs gone wild
 - what kind of strange cron jobs can I dream up? (could RC help brainstorm with this?)
+- write a cron job that plays a random audio file of someone going "teehee" at a specific time every day
 
 ## Romantic Cycle DFA
 - feelings and transition states in a person's romantic life
@@ -52,3 +53,5 @@ Weird ideas that may get spun out into more complete repos, but are babies here
 ## Schroedinger's button
 - Push a button, 50% chance of seeing a live cat, 50% chance of seeing a dead cat :(
 - kinda dark
+
+## 
