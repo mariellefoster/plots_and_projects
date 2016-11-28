@@ -15,6 +15,7 @@ Weird ideas that may get spun out into more complete repos, but are babies here
 
 ## Romantic Cycle DFA
 - feelings and transition states in a person's romantic life
+- way way down the road, could it be trained up on someone's emotional patterns and warn them or their loved ones when certain issues are beginning to reoccur. I.e. Partner A is not sleeping well, and experiencing paranoid thoughts. Warns Partner B, and  notifies Partner A that they should prioritize sleeping and lay off their coffee, which makes them anxious.
 
 ## Dating app idea generator
 - requires a dictionary and an imagination
