@@ -55,5 +55,8 @@ Weird ideas that may get spun out into more complete repos, but are babies here
 - Push a button, 50% chance of seeing a live cat, 50% chance of seeing a dead cat :(
 - kinda dark
 
-## Facial recognizer than replaces people's eyebrows with caterpillars
+## Facial recognizer that replaces people's eyebrows with caterpillars
 - Hello, snapchat filter
+
+## Twitter bot that makes stock predictions
+- Tweets at companies about whether to sell or buy
