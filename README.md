@@ -60,3 +60,6 @@ Weird ideas that may get spun out into more complete repos, but are babies here
 
 ## Twitter bot that makes stock predictions
 - Tweets at companies about whether to sell or buy
+
+## Shipping updater
+- You can give it your link to check your packages, it scrapes the info and compiles it into a text doc it leaves politely on your desktop
