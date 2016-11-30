@@ -63,3 +63,7 @@ Weird ideas that may get spun out into more complete repos, but are babies here
 
 ## Shipping updater
 - You can give it your link to check your packages, it scrapes the info and compiles it into a text doc it leaves politely on your desktop
+
+## City Fun Stuff Aggregator
+- Organizes your life into location dependent fun stuff finding
+- I.e., I'm visiting NYC during these days, what fun stuff is happening then that I like (on Meetup.com or similar)
