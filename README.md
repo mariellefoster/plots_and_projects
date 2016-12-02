@@ -74,3 +74,6 @@ Weird ideas that may get spun out into more complete repos, but are babies here
 
 ## Bedtime Enforcer
 - App that shuts off your electronics and room lights when it is time to go to bed. I really need this.
+
+## Probabilistic Paradox checker
+- Like the monty hall problem. Does a computer count as an observer?
