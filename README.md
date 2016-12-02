@@ -71,3 +71,6 @@ Weird ideas that may get spun out into more complete repos, but are babies here
 ## Instagram Millenial Markov Chain
 - Create a feed of millenial writings on social media, particularly photo captions
 - Once given a caption, google that phrase, take a screenshot of the findings, and post to instagram
+
+## Bedtime Enforcer
+- App that shuts off your electronics and room lights when it is time to go to bed. I really need this.
