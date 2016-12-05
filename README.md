@@ -81,3 +81,7 @@ Weird ideas that may get spun out into more complete repos, but are babies here
 
 ## Software for analyzing feelings and facts
 - Able to connect things, lay out priorities, and establish circumstances of control vs. influence vs. powerlessness
+
+## Argument App
+- For Kaylyn, give it a subtopic and it will pull up all the articles and your highlights at the ready
+- Also gives you encouraging comments along the way
