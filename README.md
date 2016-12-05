@@ -78,3 +78,6 @@ Weird ideas that may get spun out into more complete repos, but are babies here
 
 ## Probabilistic Paradox checker
 - Like the monty hall problem. Does a computer count as an observer?
+
+## Software for analyzing feelings and facts
+- Able to connect things, lay out priorities, and establish circumstances of control vs. influence vs. powerlessness
