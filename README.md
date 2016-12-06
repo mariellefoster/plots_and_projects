@@ -85,3 +85,6 @@ Weird ideas that may get spun out into more complete repos, but are babies here
 ## Argument App
 - For Kaylyn, give it a subtopic and it will pull up all the articles and your highlights at the ready
 - Also gives you encouraging comments along the way
+
+## Day modeler
+- Write out your goals, and approximate day plan. Let's you adjust as you go. Pretty colors
