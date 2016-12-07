@@ -89,3 +89,7 @@ Weird ideas that may get spun out into more complete repos, but are babies here
 ## Day modeler
 - Write out your goals, and approximate day plan. Let's you adjust as you go. Pretty colors
 - Compares your planned day with your actual day
+
+## Automata game
+- Writes rules for a "secret" automata, which is played through a window
+- You have a parallel window where you have to guess/code what the rules are, and then run your model to see how you did
