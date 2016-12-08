@@ -93,3 +93,6 @@ Weird ideas that may get spun out into more complete repos, but are babies here
 ## Automata game
 - Writes rules for a "secret" automata, which is played through a window
 - You have a parallel window where you have to guess/code what the rules are, and then run your model to see how you did
+
+## A Markov chain mashup... 
+- ...between Russian novels and The National Equirer
