@@ -96,3 +96,4 @@ Weird ideas that may get spun out into more complete repos, but are babies here
 
 ## A Markov chain mashup... 
 - ...between Russian novels and The National Equirer
+- ...between Presidential Speeches and Miss America Speeches
