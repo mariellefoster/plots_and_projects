@@ -108,4 +108,7 @@ Weird ideas that may get spun out into more complete repos, but are babies here
 - I dunno dude, it sounds fun
 - Tweets at your mom
 - Orders something <$5 from amazon
-- Takes a picture in your kitchen, and posts it to instagram with the top five trending hashtags
+- Takes a picture in your house, and posts it to instagram with the top five trending hashtags
+
+## Automata Artwork
+- Beautiful artwork with different rule sets
