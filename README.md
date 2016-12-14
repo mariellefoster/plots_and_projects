@@ -116,3 +116,7 @@ Weird ideas that may get spun out into more complete repos, but are babies here
 ## Book eating machine
 - eats books, tells you what words you like in your books
 - other random facts maybe? Also I should just write down what books I read, really
+
+## Fractal Wedding Ring
+- wedding rings inside wedding rings inside wedding rings
+- Sorry Mandelbrot for any technical inaccuracies
