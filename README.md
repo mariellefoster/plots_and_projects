@@ -120,3 +120,6 @@ Weird ideas that may get spun out into more complete repos, but are babies here
 ## Fractal Wedding Ring
 - wedding rings inside wedding rings inside wedding rings
 - Sorry Mandelbrot for any technical inaccuracies
+
+## Category Theory visualization of CatMet
+- Category of metaphors, as mapped to one another
