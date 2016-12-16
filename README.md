@@ -123,3 +123,6 @@ Weird ideas that may get spun out into more complete repos, but are babies here
 
 ## Category Theory visualization of CatMet
 - Category of metaphors, as mapped to one another
+- Are the functors analogies? This is potentially too much fun
+
+## 
