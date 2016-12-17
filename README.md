@@ -125,4 +125,5 @@ Weird ideas that may get spun out into more complete repos, but are babies here
 - Category of metaphors, as mapped to one another
 - Are the functors analogies? This is potentially too much fun
 
-## 
+## Confusion simulator
+- Makes your phone drown its traffic in bizarre requests, packets, and more
