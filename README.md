@@ -127,3 +127,6 @@ Weird ideas that may get spun out into more complete repos, but are babies here
 
 ## Confusion simulator
 - Makes your phone drown its traffic in bizarre requests, packets, and more
+
+## Network Protocol Inventor
+- Let's you invent your own network protocol, by giving you hints or suggestions, asking you what sorts of things you want from your protocol etc
