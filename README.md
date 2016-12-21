@@ -100,6 +100,7 @@ Weird ideas that may get spun out into more complete repos, but are babies here
 - ...between my exes' breakup/apology letters and pick up lines
 - ...wiki articles about parasites and love advice blogs
 - ...Lolcats and insurance emails
+- ...College Course Descriptions and Erowid entries
 
 ## Social Life Prioritizer
 - all of your social engagements, prioritized
