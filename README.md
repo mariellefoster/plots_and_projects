@@ -12,6 +12,9 @@ Weird ideas that may get spun out into more complete repos, but are babies here
 ## Cron jobs gone wild
 - what kind of strange cron jobs can I dream up? (could RC help brainstorm with this?)
 - write a cron job that plays a random audio file of someone going "teehee" at a specific time every day
+- Writes a summary of everything you did the day before process wise, emails it to you
+- randomly kernel panics your computer (lol)
+- changes your keyboard to urdu for 5 seconds at a time
 
 ## Romantic Cycle DFA
 - feelings and transition states in a person's romantic life
