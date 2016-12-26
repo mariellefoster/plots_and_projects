@@ -145,3 +145,7 @@ Weird ideas that may get spun out into more complete repos, but are babies here
   - Meow
   - <Their Name>?
   - ?
+
+## Machine Learning vs. Online Trolls
+- Train on a set of tweets to identify rape threats or violent responses
+- Automatically block accounts
