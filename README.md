@@ -143,9 +143,12 @@ Weird ideas that may get spun out into more complete repos, but are babies here
 - Sets a timer when you text someone and expect a response
 - If they don't respond, text them with either:
   - Meow
-  - <Their Name>?
+  - \<Their Name\>?
   - ?
 
 ## Machine Learning vs. Online Trolls
 - Train on a set of tweets to identify rape threats or violent responses
 - Automatically block accounts
+
+## Surprise call of the day
+- Picks someone random from your contacts and calls them at 4pm everyday
