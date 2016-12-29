@@ -55,8 +55,8 @@ Weird ideas that may get spun out into more complete repos, but are babies here
   - Point of anonymization, or publicity? 
   - i.e. "Someone is visiting this website" vs. "This mac address is doing this thing"
 
-## Schroedinger's button
-- Push a button, 50% chance of seeing a live cat, 50% chance of seeing a dead cat :(
+## Schroedinger's webpage
+- Load a webpage, 50% chance of seeing a live cat, 50% chance of seeing a dead cat :(
 - kinda dark
 
 ## Facial recognizer that replaces people's eyebrows with caterpillars
@@ -152,3 +152,5 @@ Weird ideas that may get spun out into more complete repos, but are babies here
 
 ## Surprise call of the day
 - Picks someone random from your contacts and calls them at 4pm everyday
+
+## 
