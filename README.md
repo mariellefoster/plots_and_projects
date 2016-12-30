@@ -162,3 +162,8 @@ Weird ideas that may get spun out into more complete repos, but are babies here
   - looks at your interests and browsing history
   - matches you with someone you would enjoy, based on your profile of friends it detects you have
   - makes a mutual appointment for a location easily accessible to both of you, at a time you both are free
+
+## eOS
+- Easy Operating System
+- Pares everything down- simple applications easy to use, highly compatible
+- Designed for people with low tech skills, in accordance with usability best practices
