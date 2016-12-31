@@ -167,3 +167,6 @@ Weird ideas that may get spun out into more complete repos, but are babies here
 - Easy Operating System
 - Pares everything down- simple applications easy to use, highly compatible
 - Designed for people with low tech skills, in accordance with usability best practices
+
+## Public License Monster
+- Licenses everything it can find on the internet with the GNU public licence
