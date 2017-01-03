@@ -157,6 +157,11 @@ Weird ideas that may get spun out into more complete repos, but are babies here
 ## Surprise call of the day
 - Picks someone random from your contacts and calls them at 4pm everyday
 
+## DRM Education Site
+- What is it?
+- Where is it?
+- Legal questions answered
+
 ## Google Friender
 - Sign up for a service that:
   - looks at your calendar and your patterns of movement
