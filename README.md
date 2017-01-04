@@ -176,3 +176,6 @@ Weird ideas that may get spun out into more complete repos, but are babies here
 
 ## Public License Monster
 - Licenses everything it can find on the internet with the GNU public licence
+
+## Preposterous Twitter Bot
+- Retweets everything with the word "Preposterous" in it
