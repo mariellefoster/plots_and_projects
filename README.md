@@ -153,6 +153,7 @@ Weird ideas that may get spun out into more complete repos, but are babies here
 ## Machine Learning vs. Online Trolls
 - Train on a set of tweets to identify rape threats or violent responses
 - Automatically block accounts
+- If twitter won't do it, someone has to
 
 ## Surprise call of the day
 - Picks someone random from your contacts and calls them at 4pm everyday
@@ -179,3 +180,5 @@ Weird ideas that may get spun out into more complete repos, but are babies here
 
 ## Preposterous Twitter Bot
 - Retweets everything with the word "Preposterous" in it
+
+## 
