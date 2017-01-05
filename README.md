@@ -181,4 +181,5 @@ Weird ideas that may get spun out into more complete repos, but are babies here
 ## Preposterous Twitter Bot
 - Retweets everything with the word "Preposterous" in it
 
-## 
+## Popular twitter bot
+- Retweets everything with more than 10k likes
