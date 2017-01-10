@@ -188,3 +188,6 @@ Weird ideas that may get spun out into more complete repos, but are babies here
 ## Learning Attention Monitor
 - Tells you how long you've been focused on something based on your actions on the computer
 - Tells you to take breaks at regular intervals, when it senses your attention span has dwindled
+- Gives you messages of encouragement, let's you save personal notes that are meaningful or important
+
+## 
