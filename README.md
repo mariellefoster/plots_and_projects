@@ -192,3 +192,7 @@ Weird ideas that may get spun out into more complete repos, but are babies here
 
 ## Smash the Patriarchy language
 - Toy language, all the jokes
+
+## Birthday Letters
+- I ask for letters for my birthday, and want some way to save them
+- Also, some way to submit birthday letters
