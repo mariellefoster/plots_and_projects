@@ -1,5 +1,5 @@
 # plots_and_projects
-Weird ideas that may get spun out into more complete repos, but are babies here
+Weird ideas that may get spun out into more complete repos, but are bébés here
 
 ## Wifi Snooper Visualizer
 - detects phones searching for wifi
