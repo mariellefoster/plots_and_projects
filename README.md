@@ -198,3 +198,6 @@ Weird ideas that may get spun out into more complete repos, but are bébés here
 ## Birthday Letters
 - I ask for letters for my birthday, and want some way to save them
 - Also, some way to submit birthday letters
+
+## Garbage Collector
+- Weird amorphous online entity that finds destructive people and garbage collects their online presences
