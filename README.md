@@ -206,3 +206,6 @@ Weird ideas that may get spun out into more complete repos, but are bébés here
 
 ## Better version of Snopes
 - Like, not funded by fake news advertising?
+
+## Math board game 
+- for small children, focusing on skill acquisition of number theory and set theory
