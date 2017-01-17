@@ -194,6 +194,7 @@ Weird ideas that may get spun out into more complete repos, but are bébés here
 
 ## Smash the Patriarchy language
 - Toy language, all the jokes
+- You know you've succeeded when alt right websites write you up
 
 ## Birthday Letters
 - I ask for letters for my birthday, and want some way to save them
@@ -202,3 +203,6 @@ Weird ideas that may get spun out into more complete repos, but are bébés here
 
 ## Garbage Collector
 - Weird amorphous online entity that finds destructive people and garbage collects their online presences
+
+## Better version of Snopes
+- Like, not funded by fake news advertising?
