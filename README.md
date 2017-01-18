@@ -206,6 +206,11 @@ Weird ideas that may get spun out into more complete repos, but are bébés here
 
 ## Better version of Snopes
 - Like, not funded by fake news advertising?
+- But how would this funding model work?
 
 ## Math board game 
 - for small children, focusing on skill acquisition of number theory and set theory
+
+## Build a city
+- to be a turing complete computer
+
