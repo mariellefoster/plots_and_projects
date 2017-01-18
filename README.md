@@ -214,3 +214,5 @@ Weird ideas that may get spun out into more complete repos, but are bébés here
 ## Build a city
 - to be a turing complete computer
 
+## Design a multi-player game
+- to be a turing complete computer
