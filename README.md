@@ -214,5 +214,8 @@ Weird ideas that may get spun out into more complete repos, but are bébés here
 ## Build a city
 - to be a turing complete computer
 
-## Design a multi-player game
+## Design a multi-player real life game
 - to be a turing complete computer
+
+## A playlist of songs with hot words
+- Fool Google assistant, Alexa, and Siri
