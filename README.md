@@ -15,6 +15,7 @@ Weird ideas that may get spun out into more complete repos, but are bébés here
 - Writes a summary of everything you did the day before process wise, emails it to you
 - randomly kernel panics your computer (lol)
 - changes your keyboard to urdu for 5 seconds at a time
+- reminds you to drink water every 2 minutes
 
 ## Romantic Cycle DFA
 - feelings and transition states in a person's romantic life
@@ -219,3 +220,5 @@ Weird ideas that may get spun out into more complete repos, but are bébés here
 
 ## A playlist of songs with hot words
 - Fool Google assistant, Alexa, and Siri
+
+
