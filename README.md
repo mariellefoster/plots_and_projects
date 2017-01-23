@@ -221,4 +221,7 @@ Weird ideas that may get spun out into more complete repos, but are bébés here
 ## A playlist of songs with hot words
 - Fool Google assistant, Alexa, and Siri
 
-
+## A chrome extension that replaces all periods with..
+- ;
+- ,
+- ;)
