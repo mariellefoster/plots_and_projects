@@ -229,3 +229,6 @@ Weird ideas that may get spun out into more complete repos, but are bébés here
 ## A middle school English teacher bot
 - Trained from massive amounts of feedback and grading corpuses
 - Goes around bugging people about their sources, and overly passive voice sentences
+- Complains about pre-teen angst
+
+## 
