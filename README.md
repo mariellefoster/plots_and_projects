@@ -231,4 +231,6 @@ Weird ideas that may get spun out into more complete repos, but are bébés here
 - Goes around bugging people about their sources, and overly passive voice sentences
 - Complains about pre-teen angst
 
-## 
+## Abba Bot
+- Responds to tweets with Abba lyrics
+- Also can tweet the "Abba Oro" Spanish lyrics in because that album is fire
