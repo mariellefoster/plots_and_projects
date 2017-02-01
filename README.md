@@ -237,3 +237,7 @@ Weird ideas that may get spun out into more complete repos, but are bébés here
 
 ## Persona separator
 - Allows you to maintain different electronic identities seamlessly
+
+## Triggers categorizations
+- helps people think about topics that anger, scare, frighten, or cause other strong emotional/psychological effects
+- For example, who do you stay up at night crafting elegant arguments against consistently?
