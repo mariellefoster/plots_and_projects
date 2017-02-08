@@ -241,3 +241,6 @@ Weird ideas that may get spun out into more complete repos, but are bébés here
 ## Triggers categorizations
 - helps people think about topics that anger, scare, frighten, or cause other strong emotional/psychological effects
 - For example, who do you stay up at night crafting elegant arguments against consistently?
+
+## User testing site
+- Whereby non tech savvy people use your website, and you get to see exactly what is confusing
