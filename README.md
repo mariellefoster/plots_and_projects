@@ -248,3 +248,7 @@ Weird ideas that may get spun out into more complete repos, but are bébés here
 ## Privacy law app
 - let's you know about the privacy laws of the country you are entering
 - gives you tips and warnings, recommendations, etc
+
+## Logical fallacy debate app
+- reminds you what different logical fallacies are
+- gives advice about how to counter them
