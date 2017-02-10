@@ -237,6 +237,7 @@ Weird ideas that may get spun out into more complete repos, but are bébés here
 
 ## Persona separator
 - Allows you to maintain different electronic identities seamlessly
+- would also be useful for credit cards and accounts, in terms of different countries you may live in
 
 ## Triggers categorizations
 - helps people think about topics that anger, scare, frighten, or cause other strong emotional/psychological effects
@@ -252,3 +253,5 @@ Weird ideas that may get spun out into more complete repos, but are bébés here
 ## Logical fallacy debate app
 - reminds you what different logical fallacies are
 - gives advice about how to counter them
+
+## 
