@@ -254,4 +254,6 @@ Weird ideas that may get spun out into more complete repos, but are bébés here
 - reminds you what different logical fallacies are
 - gives advice about how to counter them
 
-## 
+## moral system machine learning bot
+- input your desired outcomes
+- run on ecosystem
