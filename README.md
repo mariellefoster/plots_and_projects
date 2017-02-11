@@ -25,7 +25,8 @@ Weird ideas that may get spun out into more complete repos, but are bébés here
 - requires a dictionary and an imagination
 
 ## Button that retweets the hash of a random tweet
-- picks a tweets, hashes it, tweets at that person
+- picks a tweet, hashes it, tweets at that person
+- could it do a handshake over twitter?
 
 ## Make my house a doorbell
 - since we don't have one :(
