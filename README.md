@@ -124,6 +124,8 @@ Weird ideas that may get spun out into more complete repos, but are bébés here
 
 ## Automata Artwork
 - Beautiful artwork with different rule sets
+- Walls of a house
+- Party projections
 
 ## Book eating machine
 - eats books, tells you what words you like in your books
