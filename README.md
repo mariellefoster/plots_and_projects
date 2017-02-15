@@ -247,6 +247,7 @@ Weird ideas that may get spun out into more complete repos, but are bébés here
 
 ## User testing site
 - Whereby non tech savvy people use your website, and you get to see exactly what is confusing
+- feedback should be easy to give
 
 ## Privacy law app
 - let's you know about the privacy laws of the country you are entering
