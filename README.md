@@ -263,3 +263,6 @@ Weird ideas that may get spun out into more complete repos, but are bébés here
 ## moral system machine learning bot
 - input your desired outcomes
 - run on ecosystem
+
+## cats
+- how many hours of cat purring and meowing can we make this?
