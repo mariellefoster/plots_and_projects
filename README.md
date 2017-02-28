@@ -273,3 +273,6 @@ Weird ideas that may get spun out into more complete repos, but are bébés here
 ## Weekly News
 - Curated collection of periodicals that only have weekly or monthly news 
 - Save you from daily drama
+
+## Reclaimed words and phrases vs. Toxicity
+- Using google api
