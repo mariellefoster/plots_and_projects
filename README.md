@@ -276,3 +276,6 @@ Weird ideas that may get spun out into more complete repos, but are bébés here
 
 ## Reclaimed words and phrases vs. Toxicity
 - Using google api
+
+## Go home app
+- App that senses when you are tired, and shuts your work computer down and makes you go home
