@@ -270,6 +270,7 @@ Weird ideas that may get spun out into more complete repos, but are bébés here
 
 ## Lockout
 - Phone Game where when you lose, you get locked out of your phone for 5 minutes
+- Also an option to play against someone else, so you can lock them out of their phone
 
 ## Weekly News
 - Curated collection of periodicals that only have weekly or monthly news 
