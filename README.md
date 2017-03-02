@@ -280,3 +280,8 @@ Weird ideas that may get spun out into more complete repos, but are bébés here
 
 ## Go home app
 - App that senses when you are tired, and shuts your work computer down and makes you go home
+
+## Joke website about vehicles
+- describes their socializing patterns
+- migration patterns
+- How they relate to other species
