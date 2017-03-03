@@ -287,3 +287,6 @@ Weird ideas that may get spun out into more complete repos, but are bébés here
 - describes their socializing patterns
 - migration patterns
 - How they relate to other species
+
+## Chrome plugin for amazon 
+- that filters out things with ingredients you are allergic to
