@@ -290,3 +290,7 @@ Weird ideas that may get spun out into more complete repos, but are bébés here
 
 ## Chrome plugin for amazon 
 - that filters out things with ingredients you are allergic to
+
+## Personal Website
+- Artwork
+- Engineering
