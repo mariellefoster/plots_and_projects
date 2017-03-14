@@ -299,3 +299,7 @@ Weird ideas that may get spun out into more complete repos, but are bébés here
 ## Checklisting your life
 - Whenever you need to do a particular thing, has the checklist for that
 - For example, leaving the house. Do dishes, cat food, spare key, open windows, etc
+
+## Group theory
+- Explained in cool internet visuals, bar math?
+  
