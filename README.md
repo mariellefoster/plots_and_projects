@@ -305,3 +305,6 @@ Weird ideas that may get spun out into more complete repos, but are bébés here
   
 ## TCP Stack in python
 - per Julia Evans's project blog idea: https://jvns.ca/blog/2014/08/12/what-happens-if-you-write-a-tcp-stack-in-python/
+
+## Tiny toy language
+- simple simple
