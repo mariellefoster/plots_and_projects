@@ -308,3 +308,8 @@ Weird ideas that may get spun out into more complete repos, but are bébés here
 
 ## Tiny toy language
 - simple simple
+
+## Threat Modeling against...
+- harrassment and stalkers
+- the patriarchy
+- mass incarceration
