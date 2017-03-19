@@ -313,6 +313,9 @@ Weird ideas that may get spun out into more complete repos, but are bébés here
 - harrassment and stalkers
 - the patriarchy
 - mass incarceration
+- snooping parents
 
 ## Mirroring
 - How to think someone else's thoughts
+
+## 
