@@ -326,4 +326,5 @@ Weird ideas that may get spun out into more complete repos, but are bébés here
   - Exercise
   - Artistic pursuits
   - etc
+- Matches this up with how you actually spend your time
   
