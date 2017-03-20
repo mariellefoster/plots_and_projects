@@ -318,4 +318,12 @@ Weird ideas that may get spun out into more complete repos, but are bébés here
 ## Mirroring
 - How to think someone else's thoughts
 
-## 
+## Percentage awake time planner
+- Let's you think about what percentage of your time you want to spend on:
+  - Quality time
+  - Work
+  - Pleasure
+  - Exercise
+  - Artistic pursuits
+  - etc
+  
