@@ -328,3 +328,5 @@ Weird ideas that may get spun out into more complete repos, but are bébés here
   - etc
 - Matches this up with how you actually spend your time
   
+## Bad Dads page
+- Rates male politicians on how much they screw over their daughters with their bad legislation
