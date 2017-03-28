@@ -337,3 +337,4 @@ Weird ideas that may get spun out into more complete repos, but are bébés here
 
 ## T-shirts I want
 - "Protagonist"
+- "Bigotry is rude"
