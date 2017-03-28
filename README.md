@@ -112,6 +112,7 @@ Weird ideas that may get spun out into more complete repos, but are bébés here
 - ...Lolcats and insurance emails
 - ...College Course Descriptions and Erowid entries
 - ...Hamilton the musical
+- ...Dr. 
 
 ## Social Life Prioritizer
 - all of your social engagements, prioritized
@@ -339,3 +340,5 @@ Weird ideas that may get spun out into more complete repos, but are bébés here
 - "Protagonist"
 - "Bigotry is rude"
 - "Fix Shit Up"
+
+## 
