@@ -64,6 +64,7 @@ Weird ideas that may get spun out into more complete repos, but are bébés here
 
 ## Facial recognizer that replaces people's eyebrows with caterpillars
 - Hello, snapchat filter
+- On video can turn into butterflies
 
 ## Twitter bot that makes stock predictions
 - Tweets at companies about whether to sell or buy
