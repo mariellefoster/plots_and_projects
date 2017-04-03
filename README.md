@@ -340,6 +340,8 @@ Weird ideas that may get spun out into more complete repos, but are bébés here
 - "Protagonist"
 - "Bigotry is rude"
 - "Fix Shit Up"
+- Not Your Entertainment
 
 ## Tolkienizer
 - Lord of the Rings meets programming language
+
