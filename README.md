@@ -349,3 +349,6 @@ Weird ideas that may get spun out into more complete repos, but are bébés here
 
 ## Future options
 - Future mapper
+
+## Robot that cuddles you
+- Electronic cuddle machine
