@@ -299,6 +299,8 @@ Weird ideas that may get spun out into more complete repos, but are bébés here
 ## Personal Website
 - Artwork
 - Engineering
+- Stories
+- Political journalism
 
 ## Checklisting your life
 - Whenever you need to do a particular thing, has the checklist for that
