@@ -355,3 +355,6 @@ Weird ideas that may get spun out into more complete repos, but are bébés here
 
 ## Robot that cuddles you
 - Electronic cuddle machine
+
+## Electro shock and dopamine feed
+- futuristic device where you're encouraged to "meet your goals"
