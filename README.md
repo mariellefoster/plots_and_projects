@@ -360,3 +360,5 @@ Weird ideas that may get spun out into more complete repos, but are bébés here
 - futuristic device where you're encouraged to "meet your goals"
 
 ## ML Algorithm for convincing people of things
+- gets their starting point, say empathy around women or vulnerable works
+- provides intermediate points and strategies for pushing at their boundaries of thinking, without making them clam up
