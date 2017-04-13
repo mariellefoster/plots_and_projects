@@ -358,3 +358,5 @@ Weird ideas that may get spun out into more complete repos, but are bébés here
 
 ## Electro shock and dopamine feed
 - futuristic device where you're encouraged to "meet your goals"
+
+## ML Algorithm for convincing people of things
