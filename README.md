@@ -368,3 +368,4 @@ Weird ideas that may get spun out into more complete repos, but are bébés here
 
 ## micro blogger
 - asks for a sentence everyday
+- strings them together into a year chapter
