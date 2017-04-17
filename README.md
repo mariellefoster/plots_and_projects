@@ -365,3 +365,6 @@ Weird ideas that may get spun out into more complete repos, but are bébés here
 
 ## Automated ticket buyer
 - because
+
+## micro blogger
+- asks for a sentence everyday
