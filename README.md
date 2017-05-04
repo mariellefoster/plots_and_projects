@@ -124,6 +124,7 @@ Weird ideas that may get spun out into more complete repos, but are bébés here
 ## Buttons that do silly stuff around my house
 - I dunno dude, it sounds fun
 - Tweets at your mom
+  - But how does it know who your mom is?
 - Orders something <$5 from amazon
 - Takes a picture in your house, and posts it to instagram with the top five trending hashtags
 
