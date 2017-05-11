@@ -375,3 +375,6 @@ Weird ideas that may get spun out into more complete repos, but are bébés here
 
 ## bets with your friends
 - small pool bets on random things with your friends
+
+## legal structure sketch
+- take values, write legal framework
