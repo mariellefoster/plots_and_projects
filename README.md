@@ -378,3 +378,6 @@ Weird ideas that may get spun out into more complete repos, but are bébés here
 
 ## legal structure sketch
 - take values, write legal framework
+
+## Fembot Bitcharchy
+- Takes Siri, Cortana, Alexa, and OkGoogle and turns them into a crime fighting, privacy oriented, no nonsense bitch who helps you get your shit together
