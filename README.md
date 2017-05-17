@@ -381,3 +381,6 @@ Weird ideas that may get spun out into more complete repos, but are bébés here
 
 ## Fembot Bitcharchy
 - Takes Siri, Cortana, Alexa, and OkGoogle and turns them into a crime fighting, privacy oriented, no nonsense bitch who helps you get your shit together
+
+## Dilation plug in
+- Makes your web browser uncomfortably bright and blurry
