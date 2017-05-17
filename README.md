@@ -385,3 +385,4 @@ Weird ideas that may get spun out into more complete repos, but are bébés here
 
 ## Dilation plug in
 - Makes your web browser uncomfortably bright and blurry
+- "Dilate the web"
