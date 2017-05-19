@@ -386,3 +386,9 @@ Weird ideas that may get spun out into more complete repos, but are bébés here
 ## Dilation plug in
 - Makes your web browser uncomfortably bright and blurry
 - "Dilate the web"
+
+## Stern Parent Communications Protocol
+- "WHAT ARE YOU DOING"
+- "STOP THAT"
+- "DO I HAVE TO TELL YOU ONE MORE TIME"
+- "YOU'RE GROUNDED"
