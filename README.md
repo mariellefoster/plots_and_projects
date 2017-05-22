@@ -393,3 +393,6 @@ Weird ideas that may get spun out into more complete repos, but are bébés here
 - "DO I HAVE TO TELL YOU ONE MORE TIME"
 - "YOU'RE GROUNDED"
 - "WHERE ARE YOUR SHOES"
+
+## Abusive Behavior Siren
+- Goes off when someone says "you just need to have a sense of humor about it"
