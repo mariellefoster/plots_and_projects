@@ -396,3 +396,6 @@ Weird ideas that may get spun out into more complete repos, but are bébés here
 
 ## Abusive Behavior Siren
 - Goes off when someone says "you just need to have a sense of humor about it"
+
+## Username acquirer
+- Finds new forms of social media, signs me up with the username Marf so I ALWAYS GET IT
