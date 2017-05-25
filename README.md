@@ -400,3 +400,6 @@ Weird ideas that may get spun out into more complete repos, but are bébés here
 
 ## Username acquirer
 - Finds new forms of social media, signs me up with the username Marf so I ALWAYS GET IT
+
+## Detection of changed opinions
+- Gathers someone's tweets and notes shift in their tone about that topic, or what clusters of feelings their language falls into and whether it has changed over time
