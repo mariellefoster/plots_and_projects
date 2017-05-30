@@ -403,3 +403,6 @@ Weird ideas that may get spun out into more complete repos, but are bébés here
 
 ## Detection of changed opinions
 - Gathers someone's tweets and notes shift in their tone about that topic, or what clusters of feelings their language falls into and whether it has changed over time
+
+## Mobile Phone
+- a mobile phone designed around the threat model of intimate partner violence
