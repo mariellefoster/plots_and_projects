@@ -406,3 +406,9 @@ Weird ideas that may get spun out into more complete repos, but are bébés here
 
 ## Mobile Phone
 - a mobile phone designed around the threat model of intimate partner violence
+- Important concerns:
+  - How easy is it to install secret software?
+  - How easy is it to turn off and enforce all tracking options?
+  - If the phone is compromised, how easy is it to wipe remotely?
+  - All communications are encrypted?
+
