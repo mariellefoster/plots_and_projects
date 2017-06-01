@@ -412,3 +412,5 @@ Weird ideas that may get spun out into more complete repos, but are bébés here
   - If the phone is compromised, how easy is it to wipe remotely?
   - All communications are encrypted?
 
+## Skype but for Cats
+- Would they just hiss and puff up at each other?
