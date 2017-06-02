@@ -414,3 +414,6 @@ Weird ideas that may get spun out into more complete repos, but are bébés here
 
 ## Skype but for Cats
 - Would they just hiss and puff up at each other?
+
+## Glove pair
+- Robot hand on one side, glove on the other side. When the hand encounters something, the glove tingles.
