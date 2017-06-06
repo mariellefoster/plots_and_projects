@@ -423,3 +423,6 @@ Weird ideas that may get spun out into more complete repos, but are bébés here
 
 ## Female bot that laughs at you
 - in progress
+
+## Tax service for robots
+- does your robot's taxes
