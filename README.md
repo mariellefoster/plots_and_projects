@@ -417,3 +417,6 @@ Weird ideas that may get spun out into more complete repos, but are bébés here
 
 ## Glove pair
 - Robot hand on one side, glove on the other side. When the hand encounters something, the glove tingles.
+
+## Heartbeat pillow
+- A pillow with a soft heartbeat inside it
