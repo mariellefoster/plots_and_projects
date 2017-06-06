@@ -420,3 +420,6 @@ Weird ideas that may get spun out into more complete repos, but are bébés here
 
 ## Heartbeat pillow
 - A pillow with a soft heartbeat inside it
+
+## Female bot that laughs at you
+- in progress
