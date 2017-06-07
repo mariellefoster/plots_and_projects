@@ -13,7 +13,7 @@ Weird ideas that may get spun out into more complete repos, but are bébés here
 - what kind of strange cron jobs can I dream up? (could RC help brainstorm with this?)
 - write a cron job that plays a random audio file of someone going "teehee" at a specific time every day
 - Writes a summary of everything you did the day before process wise, emails it to you
-- randomly kernel panics your computer (lol)
+- randomly kernel panics your computer (lol not lol *cries*)
 - changes your keyboard to urdu for 5 seconds at a time
 - reminds you to drink water every 2 minutes
 
@@ -426,3 +426,4 @@ Weird ideas that may get spun out into more complete repos, but are bébés here
 
 ## Tax service for robots
 - does your robot's taxes
+
