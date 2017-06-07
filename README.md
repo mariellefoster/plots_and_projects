@@ -427,3 +427,6 @@ Weird ideas that may get spun out into more complete repos, but are bébés here
 ## Tax service for robots
 - does your robot's taxes
 
+## A website of a robot you can make jump on a bed
+- if you coordinate the limbs right
+- advanced = octopus
