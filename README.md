@@ -433,3 +433,6 @@ Weird ideas that may get spun out into more complete repos, but are bébés here
 
 ## Band name
 - Itinerant Girlscouts
+
+## Fan fiction to write
+- Girl scouts take on mad max world
