@@ -423,6 +423,7 @@ Weird ideas that may get spun out into more complete repos, but are bébés here
 
 ## Female bot that laughs at you
 - in progress
+- responds selectively
 
 ## Tax service for robots
 - does your robot's taxes
@@ -436,3 +437,5 @@ Weird ideas that may get spun out into more complete repos, but are bébés here
 
 ## Fan fiction to write
 - Girl scouts take on mad max world
+
+## 
