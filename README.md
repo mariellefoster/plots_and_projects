@@ -169,7 +169,7 @@ Weird ideas that may get spun out into more complete repos, but are bébés here
 - If twitter won't do it, someone has to
 
 ## Surprise call of the day
-- Picks someone random from your contacts and calls them at 4pm everyday
+- Picks someone random from your contacts and calls them at 4pm
 
 ## DRM Education Site
 - What is it?
