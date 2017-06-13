@@ -440,3 +440,6 @@ Weird ideas that may get spun out into more complete repos, but are bébés here
 
 ## Label maker printer for mobile
 - Prints labels when you need them
+
+## Emotional growth robot
+- Finds insecure violent young men and helps them practice self care and work through their emotional labor so they don't go around making everyone else's lives hard
