@@ -443,3 +443,5 @@ Weird ideas that may get spun out into more complete repos, but are bébés here
 
 ## Emotional growth robot
 - Finds insecure violent young men and helps them practice self care and work through their emotional labor so they don't go around making everyone else's lives hard
+- Bracelets that help with anger management and self care, giving you concrete data to help you recognize triggers
+- 
