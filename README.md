@@ -451,3 +451,6 @@ Weird ideas that may get spun out into more complete repos, but are bébés here
 
 ## Greed worm
 - invades all your electronics and finances, lays bare your greed
+
+## Ontopus
+- Many tentacled ontological being
