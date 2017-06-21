@@ -447,3 +447,6 @@ Weird ideas that may get spun out into more complete repos, but are bébés here
 
 ## Do all millennials dream of founding a new country?
 - Is it because we played too many video games and are used to starting over?
+
+## Greed worm
+- invades all your electronics and finances, lays bare your greed
