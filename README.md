@@ -454,3 +454,4 @@ Weird ideas that may get spun out into more complete repos, but are bébés here
 
 ## Ontopus
 - Many tentacled ontological being
+- Friends with the Epistomolopod and the Taxitis
