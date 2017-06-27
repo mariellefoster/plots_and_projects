@@ -470,3 +470,6 @@ Website spelling out why evangelical approaches are abusive
 - Monitors your computer for clipboard events
 - When you copy something, it replaces that with a random dad joke (curl icanhazdadjoke.com)
 - Confusion ensues
+
+## Advice Desert
+- Desert where no one can give me advice
