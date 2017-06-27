@@ -465,3 +465,8 @@ Weird ideas that may get spun out into more complete repos, but are bébés here
 
 ## Anti-Evangelical
 Website spelling out why evangelical approaches are abusive
+
+## Dad Copy Paste
+- Monitors your computer for clipboard events
+- When you copy something, it replaces that with a random dad joke (curl icanhazdadjoke.com)
+- Confusion ensues
