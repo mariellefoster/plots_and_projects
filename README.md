@@ -473,3 +473,7 @@ Website spelling out why evangelical approaches are abusive
 
 ## Advice Desert
 - Desert where no one can give me advice
+
+## Joke Dating App Bios
+- For old monarchs
+- For queer people of long ago
