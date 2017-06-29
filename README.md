@@ -480,3 +480,7 @@ Website spelling out why evangelical approaches are abusive
 
 ## Late Night Rants
 - But published
+
+## Codependent Classifier
+- Recognizes codependent language
+- Serves ads to those people to help them take care of themselves and have a healthier sense of self
