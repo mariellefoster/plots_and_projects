@@ -484,3 +484,7 @@ Website spelling out why evangelical approaches are abusive
 ## Codependent Classifier
 - Recognizes codependent language
 - Serves ads to those people to help them take care of themselves and have a healthier sense of self
+
+## Animated Program around Boundaries
+- What are good touches? What are bad touches?
+- How to respond to manipulative pressure
