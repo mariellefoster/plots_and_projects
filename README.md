@@ -491,3 +491,6 @@ Website spelling out why evangelical approaches are abusive
 
 ## Society where...
 - everyone is guaranteed education through the completion of their career path training, OR through undergraduate studies, whichever comes later. Additionally, everyone gets minimum of 2 years education credits, which provides a living wage (adjustable for dependents) to go back to school after the age of 30, whether that is to retrain or simply to enjoy learning about a field.
+
+## Robot Chiropractor
+- adjusts you
