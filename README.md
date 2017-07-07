@@ -494,3 +494,7 @@ Website spelling out why evangelical approaches are abusive
 
 ## Robot Chiropractor
 - adjusts you
+
+## Attitude Adjuster App
+- adjusts your attitude
+- makes you reframe things and see them positively until it is satisfied
