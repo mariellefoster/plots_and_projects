@@ -498,3 +498,6 @@ Website spelling out why evangelical approaches are abusive
 ## Attitude Adjuster App
 - adjusts your attitude
 - makes you reframe things and see them positively until it is satisfied
+
+## Website that tells you everything it can figure out about you
+- location, name, browsing habits, cookies, etc
