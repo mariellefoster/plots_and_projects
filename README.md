@@ -502,5 +502,5 @@ Website spelling out why evangelical approaches are abusive
 ## Website that tells you everything it can figure out about you
 - location, name, browsing habits, cookies, etc
 
-## Website that matches you with another browser
+## Website that matches you with another people
 - giving them your information it discerns from your browsing
