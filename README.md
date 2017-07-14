@@ -504,3 +504,6 @@ Website spelling out why evangelical approaches are abusive
 
 ## Website that matches you with another people
 - giving them your information it discerns from your browsing
+
+## Yikes bot
+- Retweets things people have responded "yikes" to
