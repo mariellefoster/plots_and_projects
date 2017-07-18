@@ -507,3 +507,7 @@ Website spelling out why evangelical approaches are abusive
 
 ## Yikes bot
 - Retweets things people have responded "yikes" to
+
+## Adversarial algorithm
+- subtly changes all photos on the internet to be classified as cats
+- https://blog.openai.com/robust-adversarial-inputs/
