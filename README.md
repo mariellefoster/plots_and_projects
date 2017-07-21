@@ -511,3 +511,7 @@ Website spelling out why evangelical approaches are abusive
 ## Adversarial algorithm
 - subtly changes all photos on the internet to be classified as cats
 - https://blog.openai.com/robust-adversarial-inputs/
+
+## Gaslighting ghostlighting
+- Tiny projectors that can put images of people around your house
+- Work when you aren't facing them, so you see it out of the corner of your eye
