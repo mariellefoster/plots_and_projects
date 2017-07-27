@@ -515,3 +515,6 @@ Website spelling out why evangelical approaches are abusive
 ## Gaslighting ghostlighting
 - Tiny projectors that can put images of people around your house
 - Work when you aren't facing them, so you see it out of the corner of your eye
+
+## Ad attack
+- forget about just blocking, this traces ads back to their lair and rips them to shreds
