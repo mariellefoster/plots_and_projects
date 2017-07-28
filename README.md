@@ -518,3 +518,6 @@ Website spelling out why evangelical approaches are abusive
 
 ## Ad attack
 - forget about just blocking, this traces ads back to their lair and rips them to shreds
+
+## Cape with light and sound robotics
+- So you can sweep in and out of rooms with light and fanfare
