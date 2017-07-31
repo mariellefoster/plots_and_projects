@@ -518,9 +518,12 @@ Website spelling out why evangelical approaches are abusive
 
 ## Ad attack
 - forget about just blocking, this traces ads back to their lair and rips them to shreds
+- Steals back people's personal info and scrubs databases of their ill gotten treasure
 
 ## Cape with light and sound robotics
 - So you can sweep in and out of rooms with light and fanfare
 
 ## Catalyst:
 - App that helps with the minimum necessary motivation you need to do stuff you'd rather not
+
+##
