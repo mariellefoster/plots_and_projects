@@ -521,3 +521,6 @@ Website spelling out why evangelical approaches are abusive
 
 ## Cape with light and sound robotics
 - So you can sweep in and out of rooms with light and fanfare
+
+## Catalyst:
+- App that helps with the minimum necessary motivation you need to do stuff you'd rather not
