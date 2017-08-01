@@ -526,4 +526,6 @@ Website spelling out why evangelical approaches are abusive
 ## Catalyst:
 - App that helps with the minimum necessary motivation you need to do stuff you'd rather not
 
-##
+## Character Passwords
+- Bechdel password: two women characters who talk to each other about something other than dudes
+- 
