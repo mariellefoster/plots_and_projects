@@ -530,4 +530,5 @@ Website spelling out why evangelical approaches are abusive
 - Bechdel password: two women characters who talk to each other about something other than dudes
 - MPDG: Character (femme) who exists solely as the object around which the main male character can fixate his emotions and needs
 
-## 
+## Is this the pick up line you're looking for?
+- Input someone's bio, get out a charming and friendly hello line/question
