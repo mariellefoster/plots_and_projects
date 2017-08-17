@@ -528,8 +528,9 @@ Website spelling out why evangelical approaches are abusive
 
 ## Character Passwords
 - Bechdel password: two women characters who talk to each other about something other than dudes
-- MPDG: Character (femme) who exists solely as the object around which the main male character can fixate his emotions and needs
+- MPDG: Character (femme) who exists solely as the object around which the main male character attempting to log in can fixate his emotions and needs
 - Russian Novel Password: Hundreds of characters, and their dozens of nicknames
+- Tired old overplayed character: Seriously why do you keep reusing this password?
 
 ## Is this the pick up line you're looking for?
 - Input someone's bio, get out a charming and friendly hello line/question
