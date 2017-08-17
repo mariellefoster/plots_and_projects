@@ -126,7 +126,7 @@ Weird ideas that may get spun out into more complete repos, but are bébés here
 - Tweets at your mom
   - But how does it know who your mom is?
 - Orders something <$5 from amazon
-- Takes a picture in your house, and posts it to instagram with the top five trending hashtags
+- Takes a picture in your house, and posts it to instagram with the top five trending hashtags #blessed
 
 ## Automata Artwork
 - Beautiful artwork with different rule sets
@@ -169,7 +169,7 @@ Weird ideas that may get spun out into more complete repos, but are bébés here
 - If twitter won't do it, someone has to
 
 ## Surprise call of the day
-- Picks someone random from your contacts and calls them at 4pm
+- Picks someone randomly from your contacts and calls them at 4pm
 
 ## DRM Education Site
 - What is it?
@@ -294,6 +294,7 @@ Weird ideas that may get spun out into more complete repos, but are bébés here
 - describes their socializing patterns
 - migration patterns
 - How they relate to other species
+- Migrating helicopters tend to prefer skyscrapers, as their natural habitat gets demolished to make way for public parks
 
 ## Chrome plugin for amazon 
 - that filters out things with ingredients you are allergic to
