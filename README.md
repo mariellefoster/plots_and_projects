@@ -533,5 +533,6 @@ Website spelling out why evangelical approaches are abusive
 
 ## Is this the pick up line you're looking for?
 - Input someone's bio, get out a charming and friendly hello line/question
+- Outlines the generalities of what makes for a good opener line vs. can be strange/obnoxious
 
 ## 
