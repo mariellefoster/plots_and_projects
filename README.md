@@ -537,4 +537,6 @@ Website spelling out why evangelical approaches are abusive
 - Input someone's bio, get out a charming and friendly hello line/question
 - Outlines the generalities of what makes for a good opener line vs. can be strange/obnoxious
 
-## 
+## Ad Company revealer
+- Reveals ad company classifications of people
+- age, SES, location, credit score, etc
