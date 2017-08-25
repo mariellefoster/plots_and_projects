@@ -541,6 +541,8 @@ Website spelling out why evangelical approaches are abusive
 - Reveals ad company classifications of people
 - age, SES, location, credit score, etc
 - "What companies are you an ideal customer for"?
+- This would be interesting also as a museum exhibit:
+  - get given
 
 ## Mission Statement generator
 - helps you classify your team/org/role
