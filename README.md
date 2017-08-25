@@ -540,7 +540,10 @@ Website spelling out why evangelical approaches are abusive
 ## Ad Company revealer
 - Reveals ad company classifications of people
 - age, SES, location, credit score, etc
+- "What companies are you an ideal customer for"?
 
 ## Mission Statement generator
 - helps you classify your team/org/role
 - asks useful questions to figure out what sort of doctrine you want to follow
+
+## 
