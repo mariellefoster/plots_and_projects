@@ -542,7 +542,9 @@ Website spelling out why evangelical approaches are abusive
 - age, SES, location, credit score, etc
 - "What companies are you an ideal customer for"?
 - This would be interesting also as a museum exhibit:
-  - get given
+  - get given a profile of someone
+  - use the "internet" exhibit like them, see their ads, content, jobs, educational opportunities, spending on insurance
+  - at the end, compare with people to see their experiences
 
 ## Mission Statement generator
 - helps you classify your team/org/role
