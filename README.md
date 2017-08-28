@@ -551,4 +551,5 @@ Website spelling out why evangelical approaches are abusive
 - helps you classify your team/org/role
 - asks useful questions to figure out what sort of doctrine you want to follow
 
-## 
+## Stress Broadcaster
+- Everyone has to carry a device which beeps if you are distressed or anxious
