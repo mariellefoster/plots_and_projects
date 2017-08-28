@@ -460,6 +460,7 @@ Weird ideas that may get spun out into more complete repos, but are bébés here
 ## HOM device
 - Hands Off Me
 - A necklace the user can wear which gives an escalating series of shocks to anyone for whom the  device has not registered as wanted contact
+- Cannot be turned off by someone else, if cortisol levels are elevated it shuts off manual adjustment
 
 ## Crossstitch Meme Kit
 - Yep
