@@ -553,3 +553,6 @@ Website spelling out why evangelical approaches are abusive
 
 ## Stress Broadcaster
 - Everyone has to carry a device which beeps if you are distressed or anxious
+
+##  Edna Mode
+- Everything in Edna Mode voice
