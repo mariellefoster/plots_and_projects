@@ -559,3 +559,6 @@ Website spelling out why evangelical approaches are abusive
 
 ## baby steamboat
 - chugs around the moat I have around my house
+
+## Earthquaker
+- Machine that shakes the earth, can set off quakes
