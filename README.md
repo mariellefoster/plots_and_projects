@@ -556,9 +556,13 @@ Website spelling out why evangelical approaches are abusive
 
 ##  Edna Mode
 - Everything in Edna Mode voice
+- Personal droid assistants would be so much better
 
 ## baby steamboat
 - chugs around the moat I have around my house
 
 ## Earthquaker
 - Machine that shakes the earth, can set off quakes
+
+## Whiskey Taster
+- Asks you questions about your taste in foods and gives you suggestions
