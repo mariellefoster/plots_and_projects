@@ -570,4 +570,5 @@ Website spelling out why evangelical approaches are abusive
 ## Anti-bias checklist
 - Asks you questions to prompt you to think about your unconscious bias, helps guide your decisions
 
-
+## Quarter life crisis party
+- penalty if you bring the same gift as someone else, no halves allowed 
