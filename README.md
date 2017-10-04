@@ -566,3 +566,8 @@ Website spelling out why evangelical approaches are abusive
 
 ## Whiskey Taster
 - Asks you questions about your taste in foods and gives you suggestions
+
+## Anti-bias checklist
+- Asks you questions to prompt you to think about your unconscious bias, helps guide your decisions
+
+
