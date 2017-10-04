@@ -572,3 +572,6 @@ Website spelling out why evangelical approaches are abusive
 
 ## Quarter life crisis party
 - penalty if you bring the same gift as someone else, no halves allowed 
+
+## Professional eyebrow raiser
+- Eyebrow workout designer
