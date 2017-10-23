@@ -439,6 +439,7 @@ Weird ideas that may get spun out into more complete repos, but are bébés here
 
 ## Fan fiction to write
 - Girl scouts take on mad max world
+- Long Way To A Small Angry Planet fan fic
 
 ## Label maker printer for mobile
 - Prints labels when you need them
