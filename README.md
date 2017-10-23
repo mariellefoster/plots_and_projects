@@ -582,3 +582,8 @@ Website spelling out why evangelical approaches are abusive
 
 ## Octopus Cognition Group
 - I want to know more about how octopusses think
+
+## Dangerous situation app
+- Records your location, audio data, takes a snapshot of all activity on your photo and data collected
+- Uploads information to secure location with designated people who are notified about your use of the service
+- Requires no password to begin transmitting, requires multiple layers of authentication to shut down
