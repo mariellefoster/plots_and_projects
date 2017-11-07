@@ -587,3 +587,7 @@ Website spelling out why evangelical approaches are abusive
 - Records your location, audio data, takes a snapshot of all activity on your photo and data collected
 - Uploads information to secure location with designated people who are notified about your use of the service
 - Requires no password to begin transmitting, requires multiple layers of authentication to shut down
+
+## Vampire House Story
+- Story where there are three houses inside each other. There are vampires outside and they will talk to you and try to get you to let them in, and so only the bravest and wisest can go to the outer layer of the house
+
