@@ -598,3 +598,6 @@ Website spelling out why evangelical approaches are abusive
 ## Slow Track and Field
 - Slow vaulting 
 - 40 meter slow hurdles
+
+## Bad AI Hints
+- Game where the AI gives you bad hints
