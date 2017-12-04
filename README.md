@@ -601,3 +601,6 @@ Website spelling out why evangelical approaches are abusive
 
 ## Bad AI Hints
 - Game where the AI gives you bad hints
+
+## Danger pay calculator
+- calculates danger pay of people of marginalized identities
