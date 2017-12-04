@@ -604,3 +604,7 @@ Website spelling out why evangelical approaches are abusive
 
 ## Danger pay calculator
 - calculates danger pay of people of marginalized identities
+- can take into account
+  - responsibilities of the role
+  - the cost of therapy
+  - the likelihood of various endangering events
