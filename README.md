@@ -608,3 +608,6 @@ Website spelling out why evangelical approaches are abusive
   - responsibilities of the role
   - the cost of therapy
   - the likelihood of various endangering events
+
+## An Office Chair with Seat Warmer
+- since the patriarchy keeps office temps at a low, we buy people who get cold (female bodied humans) chairs that keep them warm, if they want.
