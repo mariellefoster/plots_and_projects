@@ -612,4 +612,5 @@ Website spelling out why evangelical approaches are abusive
 ## An Office Chair with Seat Warmer
 - since the patriarchy keeps office temps at a low, we buy people who get cold (female bodied humans oftentimes) chairs that keep them warm, if they want.
 
-## 
+## Blockchain Foghorn
+- Goes off whenever someone mentions blockchain, or bitcoin
