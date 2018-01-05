@@ -614,3 +614,6 @@ Website spelling out why evangelical approaches are abusive
 
 ## Blockchain Foghorn
 - Goes off whenever someone mentions blockchain, or bitcoin
+
+## Bloodthirsty
+- Lightbulb that is powered by a blood battery (à la https://a-tbd.github.io/blood-series.html), with a switch that says "bloodthirsty?" above it, and "yes" for on, "no" for off
