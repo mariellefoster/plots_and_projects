@@ -624,3 +624,6 @@ Website spelling out why evangelical approaches are abusive
 
 ## Bespoke Monads
 - I just like the phrase
+
+## Prosthetic Eyeballs
+- pay per viewing at a whole new level
