@@ -621,3 +621,6 @@ Website spelling out why evangelical approaches are abusive
 ## Bloom Filter
 - Write a bloom filter
 - https://github.com/bos/bloomfilter
+
+## Bespoke Monads
+- I just like the phrase
