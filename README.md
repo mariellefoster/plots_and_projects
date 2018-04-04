@@ -627,3 +627,5 @@ Website spelling out why evangelical approaches are abusive
 
 ## Prosthetic Eyeballs
 - pay per viewing at a whole new level
+- what if you accidentally get stuck in polarized mode and can’t look at screens
+
