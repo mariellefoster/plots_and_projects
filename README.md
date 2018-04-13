@@ -629,3 +629,5 @@ Website spelling out why evangelical approaches are abusive
 - pay per viewing at a whole new level
 - what if you accidentally get stuck in polarized mode and can’t look at screens
 
+## Toenail clipper robot
+- Just a trim, zaps them with a little laser while you do other things
