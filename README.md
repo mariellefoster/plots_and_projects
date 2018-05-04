@@ -631,3 +631,6 @@ Website spelling out why evangelical approaches are abusive
 
 ## Toenail clipper robot
 - Just a trim, zaps them with a little laser while you do other things
+
+# Observational Computer Language
+- An observation only computer language, no evaluation
