@@ -645,3 +645,7 @@ Website spelling out why evangelical approaches are abusive
 - Helps people think of edge cases in different situations
 - How to handle edge cases
 - "Designing for edge cases and common cases"
+
+## A filtering language for social interactions
+- If I see person X, do Y
+- If these three things happen in any order, do Z
