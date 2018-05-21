@@ -640,3 +640,8 @@ Website spelling out why evangelical approaches are abusive
   - looked at the invite
   - haven't RSVP'ed
 - Then they are uninvited
+
+## Edge Cases Workshop
+- Helps people think of edge cases in different situations
+- How to handle edge cases
+- "Designing for edge cases and common cases"
