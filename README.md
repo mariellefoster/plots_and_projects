@@ -650,3 +650,6 @@ Website spelling out why evangelical approaches are abusive
 - If I see person X, do Y
 - If these three things happen in any order, do Z
 - When you go to the event, you don't have to think about it, just follow the instructions
+
+## Jesus: Underwater Edition
+- Given his life for our fins
