@@ -656,3 +656,6 @@ Website spelling out why evangelical approaches are abusive
 
 ## Baby you can Hardware Driver my car
 - Writing drivers for automated cars
+
+## Decision Cache
+- have a default decision for different situations
