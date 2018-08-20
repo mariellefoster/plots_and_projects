@@ -659,3 +659,6 @@ Website spelling out why evangelical approaches are abusive
 
 ## Decision Cache
 - have a default decision for different situations
+
+## Color sorting
+- sort all colors in a picture by RGB values
