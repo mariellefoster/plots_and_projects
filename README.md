@@ -662,3 +662,4 @@ Website spelling out why evangelical approaches are abusive
 
 ## Color sorting
 - sort all colors in a picture by RGB values
+- cluster and return a set of paint chip color tones
