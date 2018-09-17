@@ -666,3 +666,6 @@ Website spelling out why evangelical approaches are abusive
 
 ## Lessons I've Learned About Myself
 - a blog
+
+## Movie idea
+- Movie where archaeologists catch a plague that passes through saliva because they all lick the same bone
