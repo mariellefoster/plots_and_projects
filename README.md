@@ -672,3 +672,6 @@ Website spelling out why evangelical approaches are abusive
 
 ## Welfare Uterus
 - Libertarian term for lazy fetuses
+
+## Continual Screaming Room
+- a room that will explode unless someone is screaming in it at all times
