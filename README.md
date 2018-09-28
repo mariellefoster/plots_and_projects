@@ -675,3 +675,7 @@ Website spelling out why evangelical approaches are abusive
 
 ## Continual Screaming Room
 - a room that will explode unless someone is screaming in it at all times
+
+## Non-existent verb tenses
+- Decorative
+- Stressed Out Tense
