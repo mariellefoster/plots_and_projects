@@ -634,6 +634,7 @@ Website spelling out why evangelical approaches are abusive
 
 ## Observational Computer Language
 - An observation only computer language, no evaluation
+- literally no side effects... unless you count the Observer Effect
 
 ## Reply Required Party
 - Party where if people have
