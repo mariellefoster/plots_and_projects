@@ -683,3 +683,7 @@ Website spelling out why evangelical approaches are abusive
 - Passive Aggressive Tense
 - Conservative
 - Purposely Outrageous Hypothetical
+- Questions people asked you more than a month ago
+- When you possess something, but you wish you didn't (Possessiverejective)
+- When expressing an opinion other people hold that you think is ridiculous
+
