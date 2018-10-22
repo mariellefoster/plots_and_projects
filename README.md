@@ -691,4 +691,5 @@ Website spelling out why evangelical approaches are abusive
 - Questions people asked you more than a month ago
 - When you possess something, but you wish you didn't (Possessiverejective)
 - When expressing an opinion other people hold that you think is ridiculous
-
+- When you are pretending to speak as someone other than yourself
+  - ex. "She is always saying, 'I love cats, I want a thousand cats'"
