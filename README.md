@@ -660,6 +660,11 @@ Website spelling out why evangelical approaches are abusive
 
 ## Decision Cache
 - have a default decision for different situations
+- optional complex decision tree generation:
+  - ex. do I want to go on vacation?
+    - how tired am I?
+    - is the vacation in a warm place?
+    - does anyone else come with?
 
 ## Color sorting
 - sort all colors in a picture by RGB values
