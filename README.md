@@ -693,3 +693,6 @@ Website spelling out why evangelical approaches are abusive
 - When expressing an opinion other people hold that you think is ridiculous
 - When you are pretending to speak as someone other than yourself
   - ex. "She is always saying, 'I love cats, I want a thousand cats'"
+
+## Data marker
+- like marked dollar bills, tracks its circulation through the advertising world
