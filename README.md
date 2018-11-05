@@ -702,3 +702,6 @@ Website spelling out why evangelical approaches are abusive
 
 ## Neighborscape
 - landscapes in the neighborhood networks
+
+## Dissociation alarm
+- can tell when you've dissociated and a little alarm goes off
