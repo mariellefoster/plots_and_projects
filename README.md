@@ -705,3 +705,6 @@ Website spelling out why evangelical approaches are abusive
 
 ## Dissociation alarm
 - can tell when you've dissociated and a little alarm goes off
+
+## Ex Kaffee Machina
+- an unexpected arrival of coffee saving an otherwise dour situation 
