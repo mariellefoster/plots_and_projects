@@ -717,3 +717,4 @@ Website spelling out why evangelical approaches are abusive
   - gender neutral bathrooms
   - baby changing rooms accessible and reasonably private
   - accessible bathrooms in every building on every floor
+  - free menstruation products
