@@ -718,3 +718,7 @@ Website spelling out why evangelical approaches are abusive
   - baby changing rooms accessible and reasonably private
   - accessible bathrooms in every building on every floor
   - free menstruation products
+
+## mega calendar
+- pulls in every arbitrary calendar system
+- predictive reminders and good day check ins
