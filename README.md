@@ -708,3 +708,12 @@ Website spelling out why evangelical approaches are abusive
 
 ## Ex Kaffee Machina
 - an unexpected arrival of coffee saving an otherwise dire situation 
+
+## Bathroom politics system
+- Cis-Feminist: 
+  - Having more women's bathrooms vs. men's bathrooms
+  - having baby changing in both men and women's
+- intersectional feminist:
+  - gender neutral bathrooms
+  - baby changing rooms accessible and reasonably private
+  - accessible bathrooms in every building on every floor
