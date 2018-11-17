@@ -724,3 +724,4 @@ Website spelling out why evangelical approaches are abusive
 - predictive reminders and good day check ins
 
 ## podcast ideas
+- take popular podcasts and replace their tasteful music with soft chicken clucking
