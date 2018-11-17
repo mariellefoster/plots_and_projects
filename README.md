@@ -722,3 +722,5 @@ Website spelling out why evangelical approaches are abusive
 ## mega calendar
 - pulls in every arbitrary calendar system
 - predictive reminders and good day check ins
+
+## podcast ideas
