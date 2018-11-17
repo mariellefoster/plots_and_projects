@@ -723,5 +723,8 @@ Website spelling out why evangelical approaches are abusive
 - pulls in every arbitrary calendar system
 - predictive reminders and good day check ins
 
+## bloated internet spam email
+- browser plug in that when a website doesn't load because your internet is too slow, finds the website owner's email and emails them a form complaint
+
 ## podcast ideas
 - take popular podcasts and replace their tasteful music with soft chicken clucking
