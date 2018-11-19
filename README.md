@@ -708,6 +708,7 @@ Website spelling out why evangelical approaches are abusive
 
 ## Ex Kaffee Machina
 - an unexpected arrival of coffee saving an otherwise dire situation 
+- god as a coffee machine
 
 ## Bathroom politics system
 - Cis-Feminist: 
