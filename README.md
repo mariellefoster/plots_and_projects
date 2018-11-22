@@ -726,6 +726,7 @@ Website spelling out why evangelical approaches are abusive
 
 ## bloated internet spam email
 - browser plug in that when a website doesn't load because your internet is too slow, finds the website owner's email and emails them a form complaint
+- also includes metrics so you can point to exaaaactly how slow it is
 
 ## podcast ideas
 - take popular podcasts and replace their tasteful music with soft chicken clucking
