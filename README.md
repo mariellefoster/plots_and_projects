@@ -733,3 +733,10 @@ Website spelling out why evangelical approaches are abusive
 - take popular podcasts and replace their tasteful music with soft chicken clucking
 - chaos podcast: every one totally different
 - a podcast file that contains malware which replaces all other podcasts with copies of itself
+
+## sales version of bop it
+- crush it
+- win it
+- sell it
+- smash it
+- close it
