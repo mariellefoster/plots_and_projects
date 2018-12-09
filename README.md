@@ -747,3 +747,4 @@ Website spelling out why evangelical approaches are abusive
 
 ## All animals defined in terms of cats
 - Otters: Snake cats
+- Racoons: Swole kittehs
