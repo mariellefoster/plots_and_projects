@@ -752,3 +752,6 @@ Website spelling out why evangelical approaches are abusive
 
 ## Bar with Origami Taxidermy
 - no dead animals, only platonic solids
+
+## Stressors list
+- List of stressors, which you have to review regularly and contemplate your choices
