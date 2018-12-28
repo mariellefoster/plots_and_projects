@@ -74,6 +74,7 @@ Weird ideas that may get spun out into more complete repos or real life projects
 
 ## Shipping updater
 - You can give it your link to check your packages, it scrapes the info and compiles it into a text doc it leaves politely on your desktop
+- updates twice daily
 
 ## City Fun Stuff Aggregator
 - Organizes your life into location dependent fun stuff finding
