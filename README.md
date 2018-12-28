@@ -8,6 +8,8 @@ Weird ideas that may get spun out into more complete repos or real life projects
 ## Recursive Compression
 - repeatedly compresses and then displays an image. How compressed can something get?
 - using coding theory compression algorithms
+- model how compressed something can become
+- can you uncompress things?
 
 ## Cron jobs gone wild
 - what kind of strange cron jobs can I dream up? (could RC help brainstorm with this?)
