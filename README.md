@@ -755,3 +755,7 @@ Website spelling out why evangelical approaches are abusive
 
 ## Stressors list
 - List of stressors, which you have to review regularly and contemplate your choices
+
+## Pronoun Signs
+- Name tags
+- washi tape on cups for pronouns
