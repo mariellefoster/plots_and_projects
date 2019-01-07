@@ -755,6 +755,7 @@ Website spelling out why evangelical approaches are abusive
 
 ## Bar with Origami Taxidermy
 - no dead animals, only platonic solids
+- Taxigami
 
 ## Stressors list
 - List of stressors, which you have to review regularly and contemplate your choices
@@ -762,3 +763,6 @@ Website spelling out why evangelical approaches are abusive
 ## Pronoun Signs
 - Name tags
 - washi tape on cups for pronouns
+
+## Structural leftism
+- leftist philosophy stressing structure, relationships and operations as central tenants
