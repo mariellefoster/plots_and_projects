@@ -766,3 +766,7 @@ Website spelling out why evangelical approaches are abusive
 
 ## Structural leftism
 - leftist philosophy stressing structure, relationships and operations as central tenants
+
+## Body suit with sensors
+- reminding you to sit with good posture and move in healthy ways
+- this is not just a nervous system
