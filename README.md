@@ -752,6 +752,7 @@ Website spelling out why evangelical approaches are abusive
 - Otters: Snake cats
 - Racoons: Swole kittehs
 - Dogs: Naive cats
+- Mice: Tasty cats
 
 ## Bar with Origami Taxidermy
 - no dead animals, only platonic solids
