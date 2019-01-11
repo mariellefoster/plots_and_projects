@@ -558,6 +558,7 @@ Website spelling out why evangelical approaches are abusive
 
 ## Stress Broadcaster
 - Everyone has to carry a device which beeps if you are distressed or anxious
+- you can choose what key you beep in, or what chord progression your anxiety follows
 
 ##  Edna Mode
 - Everything in Edna Mode voice
