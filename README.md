@@ -173,6 +173,7 @@ Weird ideas that may get spun out into more complete repos or real life projects
 
 ## Surprise call of the day
 - Picks someone randomly from your contacts and calls them at 4pm
+- for a small fee, also calls someone at 4am
 
 ## DRM Education Site
 - What is it?
