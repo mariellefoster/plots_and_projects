@@ -271,6 +271,7 @@ Weird ideas that may get spun out into more complete repos or real life projects
 ## Logical fallacy debate app
 - reminds you what different logical fallacies are
 - gives advice about how to counter them
+- reminds you not to be obnoxious
 
 ## moral system machine learning bot
 - input your desired outcomes
