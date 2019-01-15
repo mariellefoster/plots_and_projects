@@ -281,6 +281,9 @@ Weird ideas that may get spun out into more complete repos or real life projects
 - how many hours of cat purring and meowing can we make this?
 - not enough
 
+## Meowing sensors
+- sensors that recreate the experience of sharing space with cats, audiotorly 
+
 ## Lockout
 - Phone Game where when you lose, you get locked out of your phone for 5 minutes
 - Also an option to play against someone else, so you can lock them out of their phone
