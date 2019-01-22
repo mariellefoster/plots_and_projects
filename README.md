@@ -761,6 +761,7 @@ Website spelling out why evangelical approaches are abusive
 - Racoons: Swole kittehs
 - Dogs: Naive cats
 - Mice: Tasty cats
+- Ants: Whiskerless cats
 
 ## Bar with Origami Taxidermy
 - no dead animals, only platonic solids
