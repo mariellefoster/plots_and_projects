@@ -476,7 +476,7 @@ Weird ideas that may get spun out into more complete repos or real life projects
 - Yep
 
 ## Anti-Evangelical
-Website spelling out why evangelical approaches are abusive
+- Website spelling out why evangelical approaches are abusive
 
 ## Dad Copy Paste
 - Monitors your computer for clipboard events
@@ -788,3 +788,7 @@ Website spelling out why evangelical approaches are abusive
 
 ## Time stretcher
 - not a time machine, just makes time feel a little looser
+
+## Computer crasher
+- Set of words or picture that when put together crash all computing devices
+- can't take a photo, can't process
