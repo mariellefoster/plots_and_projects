@@ -225,6 +225,7 @@ Weird ideas that may get spun out into more complete repos or real life projects
 
 ## Math board game 
 - for small children, focusing on skill acquisition of number theory and set theory
+- category theory board game- make functors between categories
 
 ## Build a city
 - to be a turing complete computer
