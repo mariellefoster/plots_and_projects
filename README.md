@@ -767,6 +767,7 @@ Website spelling out why evangelical approaches are abusive
 
 ## Stressors list
 - List of stressors, which you have to review regularly and contemplate your choices
+- Answer the question every day "what are you anxious about"
 
 ## Pronoun Signs
 - Name tags
