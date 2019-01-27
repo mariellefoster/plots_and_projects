@@ -795,3 +795,4 @@ Weird ideas that may get spun out into more complete repos or real life projects
 
 ## Sniping
 - Nerd
+- Yawn
