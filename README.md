@@ -313,6 +313,7 @@ Weird ideas that may get spun out into more complete repos or real life projects
 - Engineering
 - Stories
 - Political journalism
+- language acquisition
 
 ## Checklisting your life
 - Whenever you need to do a particular thing, has the checklist for that
