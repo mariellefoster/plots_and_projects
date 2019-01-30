@@ -767,6 +767,7 @@ Weird ideas that may get spun out into more complete repos or real life projects
 ## Bar with Origami Taxidermy
 - no dead animals, only platonic solids
 - Taxigami
+- Oridermy
 
 ## Stressors list
 - List of stressors, which you have to review regularly and contemplate your choices
