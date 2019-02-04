@@ -231,6 +231,7 @@ Weird ideas that may get spun out into more complete repos or real life projects
 
 ## Build a city
 - to be a turing complete computer
+- to have every point be reachable within 30 minutes at all times
 
 ## Design a multi-player real life game
 - to be a turing complete computer
