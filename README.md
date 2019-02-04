@@ -800,3 +800,6 @@ Weird ideas that may get spun out into more complete repos or real life projects
 ## Sniping
 - Nerd
 - Yawn
+
+## Books that last
+- for 30 minutes after a seal is broken
