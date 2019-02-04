@@ -211,6 +211,7 @@ Weird ideas that may get spun out into more complete repos or real life projects
 ## Smash the Patriarchy language
 - Toy language, all the jokes
 - You know you've succeeded when alt right websites write you up
+- "This language is Lovelace Complete"
 
 ## Birthday Letters
 - I ask for letters for my birthday, and want some way to save them
