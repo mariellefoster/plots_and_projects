@@ -763,10 +763,11 @@ Weird ideas that may get spun out into more complete repos or real life projects
 
 ## All animals defined in terms of cats
 - Otters: Snake cats
-- Racoons: Swole kittehs
+- Racoons: Swole kittehs (or saliva-less cats)
 - Dogs: Naive cats
 - Mice: Tasty cats
 - Ants: Whiskerless cats
+- 
 
 ## Bar with Origami Taxidermy
 - no dead animals, only platonic solids
