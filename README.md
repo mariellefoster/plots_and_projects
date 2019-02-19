@@ -155,6 +155,7 @@ Weird ideas that may get spun out into more complete repos or real life projects
 
 ## Network Protocol Inventor
 - Let's you invent your own network protocol, by giving you hints or suggestions, asking you what sorts of things you want from your protocol etc
+- Could be a buzzfeed style quiz
 
 ## Fuzzy Wifi
 - Fuzzy slippers powered by static
