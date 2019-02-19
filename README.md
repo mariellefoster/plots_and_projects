@@ -777,9 +777,12 @@ Weird ideas that may get spun out into more complete repos or real life projects
 - List of stressors, which you have to review regularly and contemplate your choices
 - Answer the question every day "what are you anxious about"
 
-## Pronoun Signs
-- Name tags
-- washi tape on cups for pronouns
+## Party Signs
+- Pronoun signs
+  - Name tags
+  - washi tape on cups for pronouns
+- Language signs
+  - what languages you speak
 
 ## Structural leftism
 - leftist philosophy stressing structure, relationships and operations as central tenants
