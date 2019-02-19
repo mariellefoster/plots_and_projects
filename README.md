@@ -384,6 +384,7 @@ Weird ideas that may get spun out into more complete repos or real life projects
 
 ## Automated ticket buyer
 - because
+- Can schedule tickets to be purchased in the future
 
 ## micro blogger
 - asks for a sentence everyday
