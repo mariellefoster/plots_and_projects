@@ -53,6 +53,9 @@ Weird ideas that may get spun out into more complete repos or real life projects
 ## Markov Marf
 - Inspired by Markov Michelle
 - Feed a markov chain my corpus of emails, see what comes out
+- Corpus of tweets, slacks, journaling
+
+
 
 ## Twitter Server
 - Posts on twitter random packets it intercepts
