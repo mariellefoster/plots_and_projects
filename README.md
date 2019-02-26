@@ -55,7 +55,8 @@ Weird ideas that may get spun out into more complete repos or real life projects
 - Feed a markov chain my corpus of emails, see what comes out
 - Corpus of tweets, slacks, journaling
 
-
+## Marf Didn't Draw This
+- Doodles generated based on a corpus of doodles
 
 ## Twitter Server
 - Posts on twitter random packets it intercepts
