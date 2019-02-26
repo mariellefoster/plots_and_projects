@@ -353,7 +353,7 @@ Weird ideas that may get spun out into more complete repos or real life projects
 - Matches this up with how you actually spend your time
   
 ## Bad Dads page
-- Rates male politicians on how much they screw over their daughters with their bad legislation
+- Rates male politicians on how much they screw over their daughters/sons/genderqueer kids with their bad legislation
 
 ## Classes for people of all ages on how to be emotionally sound
 - How do you help people grow at all ages like this?
