@@ -554,6 +554,7 @@ Weird ideas that may get spun out into more complete repos or real life projects
 ## Is this the pick up line you're looking for?
 - Input someone's bio, get out a charming and friendly hello line/question
 - Outlines the generalities of what makes for a good opener line vs. can be strange/obnoxious
+- Could be turned into a good game, where you lose points for only sending emojis
 
 ## Ad Company revealer
 - Reveals ad company classifications of people
