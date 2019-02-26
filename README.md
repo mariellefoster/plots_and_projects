@@ -357,6 +357,7 @@ Weird ideas that may get spun out into more complete repos or real life projects
 
 ## Classes for people of all ages on how to be emotionally sound
 - How do you help people grow at all ages like this?
+- Non-violent communication, boundaries, conflict mediation, etc
 
 ## T-shirts
 - "Protagonist"
