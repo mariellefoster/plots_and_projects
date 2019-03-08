@@ -820,3 +820,7 @@ Weird ideas that may get spun out into more complete repos or real life projects
 ## Books that last
 - for 30 minutes after a seal is broken
 - only until you explicitly look for them
+
+## Home Control Demons
+- Living in your IOT devices
+- Warring for control
