@@ -803,6 +803,7 @@ Weird ideas that may get spun out into more complete repos or real life projects
 
 ## A bathtub that keeps you young forever
 - not magic, just science
+- Is it the bathtub itself or what you put in the bathwater?
 
 ## Time stretcher
 - not a time machine, just makes time feel a little looser
