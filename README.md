@@ -825,3 +825,4 @@ Weird ideas that may get spun out into more complete repos or real life projects
 ## Home Control Demons
 - Living in your IOT devices
 - Warring for control
+- However they united to fight other house's demons
