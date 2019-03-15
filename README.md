@@ -164,6 +164,7 @@ Weird ideas that may get spun out into more complete repos or real life projects
 ## Fuzzy Wifi
 - Fuzzy slippers powered by static
 - Gives you wifi coverage
+- Shocks possible given your internet traffic
 
 ## Timer Texter
 - Sets a timer when you text someone and expect a response
