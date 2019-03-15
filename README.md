@@ -807,7 +807,7 @@ Weird ideas that may get spun out into more complete repos or real life projects
 
 ## Time stretcher
 - not a time machine, just makes time feel a little looser
-- like a knitted sweater, time can shrink if things get too hot
+- like a knitted sweater, time can shrink if things get too hot, too much friction
 
 ## Computer crasher
 - Set of words or picture that when put together crash all computing devices
