@@ -656,6 +656,9 @@ Weird ideas that may get spun out into more complete repos or real life projects
 ## Toenail clipper robot
 - Just a trim, zaps them with a little laser while you do other things
 
+## Split ends clipper robot
+- Cousins with the toenail clipper robot, trims your dead ends
+
 ## Observational Computer Language
 - An observation only computer language, no evaluation
 - literally no side effects... unless you count the Observer Effect
