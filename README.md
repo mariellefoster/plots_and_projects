@@ -32,6 +32,7 @@ Weird ideas that may get spun out into more complete repos or real life projects
 
 ## Make my house a doorbell
 - since we don't have one :(
+- could you ring for a particular person and then it texts that person that someone rang for them
 
 ## Bible timeline visualizer
 - When were different books believed to have been written?
