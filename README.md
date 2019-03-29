@@ -177,7 +177,8 @@ Weird ideas that may get spun out into more complete repos or real life projects
 ## Timer Mania
 - Has a variety of timer settings you can set
 - "Every four minutes remind you to get off Twitter"
-- Every 30-40 minutes reminds you to get up and move
+- "Every 30-40 minutes reminds you to get up and move"
+- "Various levels of 'let's chat and then be reminded to go do other things'"
 
 ## Machine Learning vs. Online Trolls
 - Train on a set of tweets to identify rape threats or violent responses
