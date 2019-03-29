@@ -259,6 +259,7 @@ Weird ideas that may get spun out into more complete repos or real life projects
 - ,
 - ;)
 - Cat with heart shaped eyes emoji
+- STOP
 
 ## A middle school English teacher bot
 - Trained from massive amounts of feedback and grading corpuses
