@@ -122,7 +122,7 @@ Weird ideas that may get spun out into more complete repos or real life projects
 - ...Lolcats and insurance emails
 - ...College Course Descriptions and Erowid entries
 - ...Hamilton the musical
-- ...Dr. Who and Dr. No
+- ...Dr. Who and Dr. No and Dr. Dre
 
 ## Social Life Prioritizer
 - all of your social engagements, prioritized
