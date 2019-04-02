@@ -286,6 +286,7 @@ Weird ideas that may get spun out into more complete repos or real life projects
 ## Privacy law app
 - let's you know about the privacy laws of the country you are entering
 - gives you tips and warnings, recommendations, etc
+- You can give it particular areas of concern at the outset (how old you are, citizenship, activist, etc)
 
 ## Logical fallacy debate app
 - reminds you what different logical fallacies are
