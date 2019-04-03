@@ -843,4 +843,5 @@ Weird ideas that may get spun out into more complete repos or real life projects
 - Warring for control
 - However they united to fight other houses's demons
 
-## 
+## Triangle Drawer Plugin
+- Draws triangles between different attributes in the browser
