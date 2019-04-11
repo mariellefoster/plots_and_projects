@@ -815,6 +815,7 @@ Weird ideas that may get spun out into more complete repos or real life projects
 ## Body suit with sensors
 - reminding you to sit with good posture and move in healthy ways
 - this is not just a nervous system
+- senses and alerts you to tension
 
 ## A bathtub that keeps you young forever
 - not magic, just science
