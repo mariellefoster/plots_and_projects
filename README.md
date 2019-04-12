@@ -216,6 +216,7 @@ Weird ideas that may get spun out into more complete repos or real life projects
 
 ## Popular twitter bot
 - Retweets everything with more than 10k likes
+- Comments "wow lotsa comments" on anything with more than 1000 replies
 
 ## Learning Attention Monitor
 - Tells you how long you've been focused on something based on your actions on the computer
